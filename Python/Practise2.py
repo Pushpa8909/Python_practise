@@ -1,0 +1,5 @@
+a=input("Enter your name:")
+b=int(input("Enter your age:"))
+print("Hi\n""Your name is:",a,"\n""Your age is:",b)
+a=int(input("Enter a number: "))
+print("You entered:",a,sep="",end="!")
